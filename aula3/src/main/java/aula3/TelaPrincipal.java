@@ -6,10 +6,7 @@ package aula3;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author victor.oliveira
- */
+
 public class TelaPrincipal extends javax.swing.JFrame {
 
     /**

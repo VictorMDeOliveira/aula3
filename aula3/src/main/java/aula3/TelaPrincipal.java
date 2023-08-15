@@ -89,6 +89,8 @@ public class TelaPrincipal extends javax.swing.JFrame {
        //int idade = Interger.paserInt(x);
        //System.out.println(idade);
        //System.out.println(idade);
+        //System.out.println("");
+       
         JOptionPane.showMessageDialog(null,
                x);
         txtMensagem.setText("");
